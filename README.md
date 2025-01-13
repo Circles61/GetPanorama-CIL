@@ -9,11 +9,10 @@
 
 - [图形用户界面版本](https://github.com/AnNingUI/GetPanorama)
   - 基于vue-pywebview-pyinstaller二次开发
-  - 我们的源码部分
 
 - 构建指令
 ```bash
-# 国内用户请自行切换镜像，不然会下载的很忙
+# 国内用户请自行切换镜像，不然会下载的很慢
 # 插件虚拟环境
 python -m venv .venv
 
