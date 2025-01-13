@@ -1,0 +1,4 @@
+cython==3.0.11
+pyinstaller==6.11.1
+matplotlib==3.9.3
+scikit-image==0.25.0
